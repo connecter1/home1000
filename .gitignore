@@ -1,0 +1,6 @@
+.idea
+node_modules
+.DS_Store
+/data/posts.json
+/data/users.json
+.env
